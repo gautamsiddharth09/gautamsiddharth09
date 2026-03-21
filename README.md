@@ -62,7 +62,7 @@ I write blogs to:
 - Practice explaining technical concepts
 - Improve through feedback
   
-  1. **JavaScript: The Language That Brings Websites to Life**
+1.  **JavaScript: The Language That Brings Websites to Life**
    - Link: https://jslifegautamblog.hashnode.dev/the-language-that-brings-websites-to-life
      
 ## Feedback Request 🙏
