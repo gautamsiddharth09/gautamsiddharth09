@@ -14,14 +14,6 @@
 </a>
 <img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
 
-#### About Me ?
-
-- 🧑‍💻 I'm a Software Engineering.
-- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
-- ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
-- ♥️ I love to contribute to open-source projects.
-
-
 ### 🔭 **Technology Stack**
 
 #### **Languages**:
@@ -58,6 +50,36 @@
 <img height=25 src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+#### About Me ?
+
+- 🧑‍💻 I'm a Software Engineering.
+- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
+- ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
+- ♥️ I love to contribute to open-source projects.
+  
+  ## Blogs
+I write blogs to:
+- Solidify my understanding
+- Practice explaining technical concepts
+- Improve through feedback
+  
+- 1. **JavaScript: The Language That Brings Websites to Life**
+   - Link:
+     
+## Feedback Request 🙏
+
+If you’re experienced:
+- Please point out mistakes
+- Suggest better explanations
+- Tell me where you felt confused
+
+You can:
+- Open an **Issue**
+- Or comment on the original blog
+
+Thank you for helping a learner grow 🌱
+
 
 ## 📈 Stats
 <p align="center">
