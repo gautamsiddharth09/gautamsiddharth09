@@ -9,8 +9,7 @@
 <a href="https://github.com/gautamsiddharth09">
   <img height="28" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Views&color=0e75b6&style=for-the-badge" />
-
+<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
 
 #### About Me ?
 
