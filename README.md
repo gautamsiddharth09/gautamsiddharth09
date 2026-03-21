@@ -63,7 +63,7 @@ I write blogs to:
 - Improve through feedback
   
   1. **JavaScript: The Language That Brings Websites to Life**
-   - Link:
+   - Link: https://jslifegautamblog.hashnode.dev/the-language-that-brings-websites-to-life
      
 ## Feedback Request 🙏
 
