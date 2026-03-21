@@ -11,6 +11,9 @@
 <a href="https://x.com/gsid55">
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+<a href="https://hashnode.com/@gautamhashnode" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/Hashnode-%2300aff0.svg?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 <img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
 
 #### About Me ?
