@@ -12,12 +12,7 @@
 <a href="https://x.com/gsid55">
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gsid55&style=flat-square" />
-  <a href="https://x.com/gsid55">
-    <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
 
 #### About Me ?
 
