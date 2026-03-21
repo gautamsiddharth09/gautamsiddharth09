@@ -1,4 +1,9 @@
 ## Hi! Great to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
+#### About Me ?
+- 🧑‍💻 I'm a Software Engineering.
+- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
+- ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
+- ♥️ I love to contribute to open-source projects.
 
 <a href="mailto:gautamsiddharth2013@gmail.com">
   <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -50,13 +55,6 @@
 <img height=25 src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-#### About Me ?
-
-- 🧑‍💻 I'm a Software Engineering.
-- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
-- ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
-- ♥️ I love to contribute to open-source projects.
   
   ## Blogs
 I write blogs to:
@@ -64,7 +62,7 @@ I write blogs to:
 - Practice explaining technical concepts
 - Improve through feedback
   
-- 1. **JavaScript: The Language That Brings Websites to Life**
+  1. **JavaScript: The Language That Brings Websites to Life**
    - Link:
      
 ## Feedback Request 🙏
