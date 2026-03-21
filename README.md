@@ -13,10 +13,7 @@
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 ![Profile Views](https://komarev.com/ghpvc/?username=gsid55&style=flat-square)
-
-<!-- <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
-  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-</a> -->
+<!-- <a href="https://drive.google.com/file/d/1ktat06V9Njj7atofNAyRGxATkvYqmj9c/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a> -->
 
 #### About Me ?
 
