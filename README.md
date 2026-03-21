@@ -57,11 +57,10 @@
 <img height=25 src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
-## 📈 GitHub Stats
-
+## 📈 Stats
 <p align="center">
-<a href="https://github.com/gautamsiddharth09">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gautamsiddharth09&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsiddharth09&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Anurag5086">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anurag5086&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anurag5086&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
