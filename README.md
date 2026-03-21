@@ -1,7 +1,4 @@
-## Hi! Great to see you here! 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
-
-<br>
+## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
 
 <a href="mailto:gautamsiddharth2013@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
