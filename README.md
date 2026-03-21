@@ -1,21 +1,24 @@
-
-
-## Hi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+<h2 align="center">
+  Hi! Great to see you here! 
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
+</h2>
 
 <p align="center">
-<a href="mailto:gautamsiddharth2013@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gautam-kumar-b4052b9b">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/gautamsiddharth09">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="mailto:gautamsiddharth2013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gautam-kumar-b4052b9b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/gautamsiddharth09">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautamsiddharth09&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
