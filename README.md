@@ -12,7 +12,11 @@
 <a href="https://x.com/gsid55">
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
+![Profile Views](https://komarev.com/ghpvc/?username=gsid55&style=flat-square)
+
+<!-- <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+  <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a> -->
 
 #### About Me ?
 
