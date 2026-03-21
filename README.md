@@ -12,6 +12,7 @@
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" />
+
 #### About Me ?
 - 🧑‍💻 I'm a Software Engineering.
 - ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
