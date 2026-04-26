@@ -67,6 +67,8 @@ I write blogs to:
   
 1.  **JavaScript: The Language That Brings Websites to Life**
    - Link: https://jslifegautamblog.hashnode.dev/the-language-that-brings-websites-to-life
+2.  **The Secret Journey of a JavaScript Event**
+  - Link https://hashnode.com/edit/cmofol16v00041qjp09zfcc8a
      
 ## Feedback Request 🙏
 
