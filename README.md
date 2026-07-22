@@ -18,7 +18,7 @@
 
 #### About Me ?
 - 🧑‍💻 I'm a Software Engineering.
-- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools.
+- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN, GenAI), with hands-on experience in Golang, Rust, AI Tools.
 - ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
 - ♥️ I love to contribute to open-source projects.
 
