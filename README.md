@@ -90,8 +90,8 @@ Thank you for helping a learner grow 🌱
 
 ## 📈 Stats
 <p align="center">
-<a href="https://github.com/gautamsiddharth09">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gautamsiddharth09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsiddharth09&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/gautamsiddharth09">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamsiddharth09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsiddharth09&layout=compact&langs_count=8&theme=algolia" />
+  </a>
 </p>
