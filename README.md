@@ -6,7 +6,7 @@
   <img height="28" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/gautamsiddharth09">
-  <img height="28" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/GitHub-%237B2FF7.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/GautamSingh_21">
   <img height="28" src="https://img.shields.io/badge/LeetCode-%23198038.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
