@@ -8,6 +8,9 @@
 <a href="https://github.com/gautamsiddharth09">
   <img height="28" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+  <a href="https://leetcode.com/u/GautamSingh_21">
+  <img height="28" src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116" />
+</a>
 <a href="https://hashnode.com/@gautamhashnode" target="_blank">
   <img height="28" src="https://img.shields.io/badge/Hashnode-%2300aff0.svg?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
@@ -47,6 +50,7 @@
 
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/NoSQL-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 
 ## ☁️ DevOps & Cloud Tools:
