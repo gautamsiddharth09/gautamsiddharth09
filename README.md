@@ -9,7 +9,7 @@
   <img height="28" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/GautamSingh_21">
-  <img height="28" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=%23000000" />
+  <img height="28" src="https://img.shields.io/badge/LeetCode-%23198038.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://hashnode.com/@gautamhashnode" target="_blank">
   <img height="28" src="https://img.shields.io/badge/Hashnode-%2300aff0.svg?style=for-the-badge&logo=hashnode&logoColor=white" />
