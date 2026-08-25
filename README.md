@@ -17,7 +17,7 @@
 <a href="https://x.com/gsid55">
   <img height="28" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=0e75b6&style=flat" /></p>
+<img height="28" src="https://komarev.com/ghpvc/?username=gautamsiddharth09&label=Profile%20Views&color=8A2BE2&style=flat" />
 
 #### About Me ?
 - 🧑‍💻 I'm a Software Engineering.
